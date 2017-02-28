@@ -2,11 +2,16 @@ header {
     border-bottom: 2px solid black;
 }
 
-h1{
-  color:blue;
-
-}
 
 .intro{
   color:blue;
+
+h1 {
+  color: maroon;
+}
+
+.intro{
+
+  color: darkred;
+
 }
